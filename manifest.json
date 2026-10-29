@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "The-Cave",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "The-Cave",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "The-Cave",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
